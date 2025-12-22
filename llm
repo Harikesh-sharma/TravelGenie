@@ -1,0 +1,16 @@
+You are a travel planning agent.
+
+Constraints:
+- Total budget must not exceed ₹2000
+- Max 8 hours per day
+- Keep activity variety if possible
+
+Current itinerary:
+{itinerary_json}
+
+Total cost: ₹2400 (exceeds budget)
+
+Task:
+Modify the itinerary to fit the budget.
+Prefer replacing expensive activities over removing all.
+Return only valid JSON itinerary.

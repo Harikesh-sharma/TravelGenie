@@ -6,11 +6,8 @@ export default defineConfig({
   plugins: [react()],
   server: {
     proxy: {
-      '/plan': {
-        target: 'http://127.0.0.1:8000',
-        changeOrigin: true,
-        secure: false,
-      }
-    }
-  }
+      '/plan': 'http://127.0.0.1:8000',
+      '/subscribe': 'http://127.0.0.1:8000',
+    },
+  },
 })

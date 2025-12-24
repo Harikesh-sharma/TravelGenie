@@ -61,7 +61,7 @@ const STATE_IMAGES = {
   "Gujarat": "https://images.unsplash.com/photo-1578509476878-3c3924d52477?auto=format&fit=crop&w=1920&q=80",
   "Punjab": "https://images.unsplash.com/photo-1580836526476-8d492471676f?auto=format&fit=crop&w=1920&q=80",
   "Ladakh": "https://images.unsplash.com/photo-1581793745862-99fde7fa73d2?auto=format&fit=crop&w=1920&q=80",
-  "Uttarakhand": "https://images.unsplash.com/photo-1565354785692-7e646c78346a?auto=format&fit=crop&w=1920&q=80",
+  "Uttarakhand": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTdORvAGK2Z_8FMYS7xR-2XC1nMabCXjpgvA&s",
   "Sikkim": "https://images.unsplash.com/photo-1588416936097-41850ab3d86d?auto=format&fit=crop&w=1920&q=80",
   "Telangana": "https://images.unsplash.com/photo-1626014903708-40aa47cd24ea?auto=format&fit=crop&w=1920&q=80",
   "Andhra Pradesh": "https://images.unsplash.com/photo-1621831536720-6024d88f1a6a?auto=format&fit=crop&w=1920&q=80",

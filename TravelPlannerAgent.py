@@ -63,7 +63,11 @@ ACTIVITIES = {
         "sightseeing": [
             {"name": "Golden Temple", "cost": 0, "hours": 3},
             {"name": "Jallianwala Bagh", "cost": 0, "hours": 1},
-            {"name": "Wagah Border", "cost": 0, "hours": 4}
+            {"name": "Wagah Border", "cost": 0, "hours": 4},
+            {"name": "Partition Museum", "cost": 10, "hours": 2},
+            {"name": "Gobindgarh Fort", "cost": 200, "hours": 3},
+            {"name": "Durgiana Temple", "cost": 0, "hours": 1},
+            {"name": "Sadda Pind", "cost": 750, "hours": 3}
         ],
         "food": [
             {"name": "Kesar Da Dhaba", "cost": 400, "hours": 1},
@@ -592,7 +596,12 @@ ACTIVITIES = {
         "sightseeing": [
             {"name": "Beatles Ashram", "cost": 600, "hours": 2},
             {"name": "Laxman Jhula", "cost": 0, "hours": 1},
-            {"name": "Triveni Ghat Aarti", "cost": 0, "hours": 1.5}
+            {"name": "Ram Jhula", "cost": 0, "hours": 1},
+            {"name": "Triveni Ghat Aarti", "cost": 0, "hours": 1.5},
+            {"name": "Parmarth Niketan Aarti", "cost": 0, "hours": 1.5},
+            {"name": "River Rafting", "cost": 1500, "hours": 3},
+            {"name": "Bungee Jumping", "cost": 3500, "hours": 2},
+            {"name": "Paragliding", "cost": 4000, "hours": 2}
         ],
         "food": [
             {"name": "Chotiwala", "cost": 300, "hours": 1},
